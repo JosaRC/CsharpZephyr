@@ -31,11 +31,11 @@ namespace ZapiCSharp
             HttpClient client = new HttpClient();
 
 
-            var SECRET_KEY = "XfuqWAhgHYEFlb95BLqRYjvO0OhazHnrIUCpBZ-5GEs";
+            var SECRET_KEY = "";
 
-            var ACCESS_KEY = "MTI3ZWE3YmUtNzU5Zi0zMGEyLWI3OWItMGFkN2JlNjY2MjVhIDYyZmU5MDM1NTVhMTc5MzIxNTkxZWY2NCBVU0VSX0RFRkFVTFRfTkFNRQ";
+            var ACCESS_KEY = "";
 
-            var ACCOUNT_ID = "62fe903555a179321591ef64";
+            var ACCOUNT_ID = "";
 
             var BASE_URL = "https://prod-api.zephyr4jiracloud.com/connect";
 
